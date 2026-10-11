@@ -8,7 +8,7 @@
 
 ## View the Streamlit App
 
-[https://healthcare-a6swlzlfmvs5uz2wabueuv.streamlit.app/](https://healthcare-a6swlzlfmvs5uz2wabueuv.streamlit.app/)
+https://carelens-ai---healthcare-analytics.streamlit.app/
 
 ---
 
@@ -252,7 +252,7 @@ Key metrics include:
 - Payer Coverage
 - Average Encounter Cost
 
-See here -> [https://github.com/YASHIKAANEJA/AI-HealthCare-Analytics/blob/main/Hospital%20Performance%20Overview.png](https://github.com/YASHIKAANEJA/AI-HealthCare-Analytics/blob/main/Hospital%20Performance%20Overview.png)
+See here -> https://github.com/YASHIKAANEJA/CareLens-AI---Healthcare-Analytics/blob/main/Hospital%20Performance%20Overview.png
 
 ---
 
@@ -269,7 +269,7 @@ Includes:
 - Encounters by year/month
 - Patient activity
 
-See Here -> [https://github.com/YASHIKAANEJA/AI-HealthCare-Analytics/blob/main/Patient%20Demographics.png](https://github.com/YASHIKAANEJA/AI-HealthCare-Analytics/blob/main/Patient%20Demographics.png)
+See Here -> https://github.com/YASHIKAANEJA/CareLens-AI---Healthcare-Analytics/blob/main/Patient%20Demographics.png
 
 ---
 
@@ -286,7 +286,7 @@ Includes:
 - Procedure volume
 - Cost comparisons
 
-See here -> [https://github.com/YASHIKAANEJA/AI-HealthCare-Analytics/blob/main/Clinical%20and%20Operational%20Analytics.png](https://github.com/YASHIKAANEJA/AI-HealthCare-Analytics/blob/main/Clinical%20and%20Operational%20Analytics.png)
+See here -> https://github.com/YASHIKAANEJA/CareLens-AI---Healthcare-Analytics/blob/main/Clinical%20and%20Operational%20Analytics.png
 
 ---
 
@@ -303,8 +303,7 @@ Includes:
 - Operational trends
 - Healthcare utilization patterns
 
-See here -> [https://github.com/YASHIKAANEJA/AI-HealthCare-Analytics/blob/main/Financial%20%26%20Insurance%20Analytics.png](https://github.com/YASHIKAANEJA/AI-HealthCare-Analytics/blob/main/Financial%20%26%20Insurance%20Analytics.png)
-
+See here -> https://github.com/YASHIKAANEJA/CareLens-AI---Healthcare-Analytics/blob/main/Financial%20%26%20Insurance%20Analytics.png
 ---
 
 # 🤖 AI Healthcare Analytics
